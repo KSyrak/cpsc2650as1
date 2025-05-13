@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+      79d0b2b (HEAD -{">"} master) Initial commit: set up Vite react app
       </p>
     </>
   )
