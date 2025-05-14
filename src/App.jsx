@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import task7 from './assets/Task_7.png';
 import './App.css'
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+        <img src={task7} alt="task7" />
         <p>welcome to Assignment 1</p>
       </div>
       <p className="read-the-docs">
