@@ -24,6 +24,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+        <p>welcome to Assignment 1</p>
       </div>
       <p className="read-the-docs">
       79d0b2b (HEAD -{">"} master) Initial commit: set up Vite react app
